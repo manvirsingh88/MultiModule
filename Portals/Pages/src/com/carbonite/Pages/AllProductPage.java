@@ -31,5 +31,9 @@ public class AllProductPage extends Page {
 	public String titleofThePage() {
 		return ((ProxyDriver) wd).getTitle();
 	}
+	
+	public void sujith() {
+		
+	}
 
 }
