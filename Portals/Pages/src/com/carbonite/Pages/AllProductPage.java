@@ -36,4 +36,8 @@ public class AllProductPage extends Page {
 
 	}
 
+	public void testMethod() {
+
+	}
+
 }
