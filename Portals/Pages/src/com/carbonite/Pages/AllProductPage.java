@@ -32,11 +32,18 @@ public class AllProductPage extends Page {
 		return ((ProxyDriver) wd).getTitle();
 	}
 
-	public void harpreet() {
+	public void testMethod() {
+	}
+
+	public void sujith() {
 
 	}
 
-	public void testMethod() {
+	public void sujith2() {
+
+	}
+
+	public void harpreet() {
 
 	}
 
