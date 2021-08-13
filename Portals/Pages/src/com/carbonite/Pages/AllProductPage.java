@@ -32,6 +32,9 @@ public class AllProductPage extends Page {
 		return ((ProxyDriver) wd).getTitle();
 	}
 
+	public void testMethod() {
+	}
+
 	public void sujith() {
 
 	}
